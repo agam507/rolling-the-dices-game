@@ -44,12 +44,12 @@ No external dependencies are needed.
 | ⚅        | `\u2685` | 6      |
 
 ## 📁 File Structure
-
+```
 rolling-the-dices-game/
 ├── dice_game.py # Main Python script
 ├── README.md # Project documentation
 └── .gitignore # Git ignore file
-
+```
 ---
 
 Made with ❤️ using Python and Tkinter
